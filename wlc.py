@@ -6,5 +6,5 @@ m = random.choice(color)+"Bem vindo THBD \nAtualizando pacote de dados...\n\n\n\
 for msg in m:
     sys.stdout.write(msg)
     sys.stdout.flush()
-    time.sleep(0.07)
+    time.sleep(0.04)
 print("")
